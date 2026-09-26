@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="HBO" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbcx1d55B4tPsl16xxXwGZ29O9DdNh1yzdyTBhi9zZl-oXFhz3j_1gvuo2vwJH5MHAE6VMqrW4RJqDa-BIJY2sDPyUISLbO4Y9u1B6pV2Alow0VNazhppLKfg7sbaG4_BqaO_NhGbJ-tkhWi2XhEPTsIXN4rG1E4RW7OIO3r1jv2j7KUMwgUZDTwUOIzYg/s700/HBO%20FAMILY.png", HBO FAMILY PH
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="TransTV" ch-number="4" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia Channels",TransTV HD
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd
