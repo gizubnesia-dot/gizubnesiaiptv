@@ -3,13 +3,7 @@
 http://tv14s.xyz:8080/live/UMZ33r/016853/53709.ts
 #EXTINF:-1,ESPN 3
 http://cord-cutter.net:8080/live/rexboy101@gmail.com/qK9C5tq3e2/328466.ts
-#EXTINF:-1,SPORT TV 5
-http://cord-cutter.net:8080/live/rexboy101@gmail.com/qK9C5tq3e2/266559.ts
-#EXTINF:-1,LAZIO
-http://my-king.net:7070/live/160145116653133/aO1ltsOFDzkWxPN/237021.ts
 #EXTINF:-1,RALLY TV
-http://alexatv.world:8080/live/JasoN8402/gxgCUVnMUy/829036.ts
-#EXTINF:-1,SKY SPORT F1
-http://alexatv.world:8080/live/JasoN8402/gxgCUVnMUy/440139.ts
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1,SKY SPORT F1
 http://france-ott.net/live/VXCNIBAVFP/TXPRTD26KY/426433.ts
