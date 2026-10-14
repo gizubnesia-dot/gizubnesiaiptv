@@ -13,6 +13,8 @@ https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
 #EXTINF:-1,ACI SPORT
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1,SETANTA SPORT 
+http://stream.mcquack.net/234/index.m3u8
 #EXTINF:-1,SETANTA SPORT 2
 http://stream.mcquack.net/235/index.m3u8
 #EXTINF:-1,CANAL+ SPORT
@@ -31,3 +33,11 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?o
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
 #EXTINF:-1,CANAL+ SPORT 8
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
+#EXTINF:-1,DIVI SPORT
+http://stream.mcquack.net/457/index.m3u8
+#EXTINF:-1,ESPN 3 AG
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1,N SPORT
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
+#EXTINF:-1,SPORT 2 UKRAINA
+http://stream.mcquack.net/392/index.m3u8
