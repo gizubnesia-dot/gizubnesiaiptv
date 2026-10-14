@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,RUSHSPORT
 http://tv14s.xyz:8080/live/UMZ33r/016853/53709.ts
-#EXTINF:-1,ESPN 3
-http://cord-cutter.net:8080/live/rexboy101@gmail.com/qK9C5tq3e2/328466.ts
+#EXTINF:-1,BEIN SPORT XTRA
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1,RALLY TV
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 #EXTINF:-1,SKY SPORT F1
@@ -15,3 +15,19 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannel
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1,SETANTA SPORT 2
 http://stream.mcquack.net/235/index.m3u8
+#EXTINF:-1,CANAL+ SPORT
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport/live_fullhd?offsetSeconds=0
+#EXTINF:-1,CANAL+ SPORT 2
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport2/live_fullhd?offsetSeconds=0
+#EXTINF:-1,CANAL+ SPORT 3
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport3/live_fullhd?offsetSeconds=0
+#EXTINF:-1,CANAL+ SPORT 4
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport4/live_fullhd?offsetSeconds=0
+#EXTINF:-1,CANAL+ SPORT 5
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport5/live_fullhd?offsetSeconds=0
+#EXTINF:-1,CANAL+ SPORT 6
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport6/live_fullhd?offsetSeconds=0
+#EXTINF:-1,CANAL+ SPORT 7
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport7/live_fullhd?offsetSeconds=0
+#EXTINF:-1,CANAL+ SPORT 8
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?offsetSeconds=0
