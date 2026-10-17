@@ -37,9 +37,17 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?o
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1,ESPN 3 AG
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-#EXTINF:-1,DAZN 1
-http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/221207
 #EXTINF:-1,N SPORT
 https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1,SPORT 2 UKRAINA
 http://stream.mcquack.net/392/index.m3u8
+#EXTINF:-1,DAZN1 PT
+http://tv14s.xyz:8080/live/UMZ33r/016853/266566.ts
+#EXTINF:-1,DAZN2 PT
+http://tv14s.xyz:8080/live/UMZ33r/016853/266565.ts
+#EXTINF:-1,DAZN3 PT
+http://tv14s.xyz:8080/live/UMZ33r/016853/266564.ts
+#EXTINF:-1,DAZN4 PT
+http://tv14s.xyz:8080/live/UMZ33r/016853/266563.ts
+#EXTINF:-1,DAZN5 PT
+http://tv14s.xyz:8080/live/UMZ33r/016853/266562.ts
