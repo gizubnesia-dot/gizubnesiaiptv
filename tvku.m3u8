@@ -5,14 +5,10 @@ http://tv14s.xyz:8080/live/UMZ33r/016853/53709.ts
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
 #EXTINF:-1,RALLY TV
 https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
-#EXTINF:-1,ESPN
-http://tv14s.xyz:8080/live/UMZ33r/016853/328464.ts
-#EXTINF:-1,DAZN LA LIGA
-http://tv14s.xyz:8080/live/UMZ33r/016853/330009.ts
-#EXTINF:-1,TENNIS CHANNEL 2
-https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1,TENNIS CHANNEL
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1,TENNIS CHANNEL 2
+https://mumbai-edge.smartplaytv.in/Tennis2/index.m3u8
 #EXTINF:-1,ACI SPORT
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1,SETANTA SPORT 
@@ -39,8 +35,6 @@ http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-canal-plus-sport8/live_fullhd?o
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1,ESPN 3 AG
 https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-#EXTINF:-1,N SPORT
-https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8
 #EXTINF:-1,SPORT 2 UKRAINA
 http://stream.mcquack.net/392/index.m3u8
 #EXTINF:-1,DAZN1 PT
@@ -67,15 +61,13 @@ http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/694581.ts
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/694578.ts
 #EXTINF:-1,SKY BUNDESLIGA 5
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/694575.ts
-#EXTINF:-1,fs2
-https://cdn.telecloud.tv/CH3225/index.m3u8
 #EXTINF:-1,DAZN LEGA CALCIO
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/897885.ts
 #EXTINF:-1,SPORTDIGITAL
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/131439.ts
 #EXTINF:-1,SPORTDIGITAL +1
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/95897.ts
-#EXTINF:-1,DAZN 1 IT
+#EXTINF:-1,NOVA SPORT 4
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/1102406.ts
-#EXTINF:-1,MOTOGP
+#EXTINF:-1,SK 3
 http://45.159.94.49:8080/live/Z4tVVLRpNf/2tXDtxxjbB/640615.ts
